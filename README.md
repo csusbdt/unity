@@ -1,4 +1,4 @@
 unity
 =====
 
-My notes on Unity
+See [the wiki](wiki) for my notes on Unity.
